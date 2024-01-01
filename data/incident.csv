@@ -1,0 +1,552 @@
+weapon found,id,city,county,day,month,year
+no,463,Albany,Alameda,8,8,2018
+no,606,Albany,Alameda,23,4,2016
+no,490,Albany,Alameda,8,8,2018
+yes,260,Bakersfield,Kern,4,9,2017
+yes,584,Bakersfield,Kern,27,1,2019
+no,289,Bakersfield,Kern,5,3,2016
+no,259,Bakersfield,Kern,17,5,2015
+no,276,Bakersfield,Kern,24,11,2017
+no,280,Bakersfield,Kern,15,11,2016
+no,344,Bakersfield,Kern,18,7,2017
+no,351,Bakersfield,Kern,9,12,2017
+no,307,Bakersfield,Kern,31,5,2017
+yes,272,Bakersfield,Kern,13,2,2017
+yes,253,Bakersfield,Kern,19,1,2017
+yes,312,Bakersfield,Kern,17,12,2016
+yes,326,Bakersfield,Kern,17,3,2015
+yes,376,Bakersfield,Kern,31,3,2016
+yes,586,Bakersfield,Kern,20,1,2019
+yes,314,Bakersfield,Kern,2,10,2016
+yes,365,Bakersfield,Kern,4,4,2017
+no,251,Bakersfield,Kern,6,4,2016
+no,261,Bakersfield,Kern,23,12,2017
+no,271,Bakersfield,Kern,29,9,2017
+no,255,Bakersfield,Kern,14,9,2017
+no,273,Bakersfield,Kern,21,1,2017
+no,256,Bakersfield,Kern,24,11,2017
+no,265,Bakersfield,Kern,23,12,2017
+no,275,Bakersfield,Kern,11,10,2017
+no,279,Bakersfield,Kern,12,10,2017
+no,281,Bakersfield,Kern,17,5,2016
+no,282,Bakersfield,Kern,13,9,2016
+no,285,Bakersfield,Kern,17,10,2018
+no,286,Bakersfield,Kern,21,1,2017
+no,288,Bakersfield,Kern,31,5,2017
+no,298,Bakersfield,Kern,21,3,2017
+no,299,Bakersfield,Kern,13,9,2016
+no,266,Bakersfield,Kern,4,11,2017
+no,301,Bakersfield,Kern,18,6,2017
+no,303,Bakersfield,Kern,5,3,2016
+no,304,Bakersfield,Kern,10,5,2016
+no,302,Bakersfield,Kern,27,4,2018
+no,305,Bakersfield,Kern,13,6,2017
+no,306,Bakersfield,Kern,18,6,2017
+no,310,Bakersfield,Kern,16,2,2018
+no,268,Bakersfield,Kern,17,10,2018
+no,269,Bakersfield,Kern,27,4,2018
+no,317,Bakersfield,Kern,15,5,2017
+no,319,Bakersfield,Kern,26,4,2018
+no,320,Bakersfield,Kern,17,5,2018
+no,321,Bakersfield,Kern,26,4,2018
+no,323,Bakersfield,Kern,15,11,2016
+no,325,Bakersfield,Kern,10,5,2016
+no,329,Bakersfield,Kern,25,6,2018
+no,331,Bakersfield,Kern,9,12,2017
+no,334,Bakersfield,Kern,4,11,2017
+no,335,Bakersfield,Kern,13,6,2017
+no,336,Bakersfield,Kern,17,2,2017
+no,296,Bakersfield,Kern,17,5,2018
+no,347,Bakersfield,Kern,12,2,2016
+no,362,Bakersfield,Kern,17,2,2016
+no,367,Bakersfield,Kern,4,7,2019
+no,369,Bakersfield,Kern,18,7,2017
+no,370,Bakersfield,Kern,25,6,2016
+no,371,Bakersfield,Kern,7,4,2017
+no,373,Bakersfield,Kern,19,4,2016
+no,378,Bakersfield,Kern,17,10,2016
+no,379,Bakersfield,Kern,27,8,2014
+no,382,Bakersfield,Kern,20,9,2016
+no,385,Bakersfield,Kern,19,4,2016
+no,386,Bakersfield,Kern,17,10,2017
+no,390,Bakersfield,Kern,21,7,2016
+no,394,Bakersfield,Kern,2,10,2017
+no,396,Bakersfield,Kern,5,7,2017
+no,401,Bakersfield,Kern,12,12,2016
+no,402,Bakersfield,Kern,21,7,2016
+no,384,Bakersfield,Kern,1,5,2016
+no,415,Bakersfield,Kern,1,5,2016
+no,410,Bakersfield,Kern,2,10,2017
+no,422,Bakersfield,Kern,2,10,2017
+no,428,Bakersfield,Kern,25,6,2018
+no,429,Bakersfield,Kern,12,2,2016
+no,434,Bakersfield,Kern,11,7,2016
+no,435,Bakersfield,Kern,2,10,2017
+no,438,Bakersfield,Kern,2,3,2017
+no,450,Bakersfield,Kern,29,9,2017
+no,587,Bakersfield,Kern,16,9,2019
+no,589,Bakersfield,Kern,19,9,2019
+no,592,Bakersfield,Kern,28,5,2019
+no,593,Bakersfield,Kern,16,9,2019
+no,598,Bakersfield,Kern,6,10,2019
+no,599,Bakersfield,Kern,11,2,2019
+no,600,Bakersfield,Kern,4,7,2019
+no,601,Bakersfield,Kern,13,4,2019
+no,602,Bakersfield,Kern,18,3,2019
+no,611,Bakersfield,Kern,6,10,2019
+no,612,Bakersfield,Kern,28,5,2019
+no,622,Bakersfield,Kern,18,3,2019
+no,668,Bakersfield,Kern,13,4,2019
+no,672,Bakersfield,Kern,11,2,2019
+no,277,Bakersfield,Kern,15,5,2017
+no,313,Bakersfield,Kern,3,3,2017
+no,342,Bakersfield,Kern,7,4,2017
+no,349,Bakersfield,Kern,11,7,2016
+no,375,Bakersfield,Kern,20,9,2016
+no,363,Bakersfield,Kern,13,10,2018
+no,392,Bakersfield,Kern,23,6,2014
+no,398,Bakersfield,Kern,20,2,2015
+no,405,Bakersfield,Kern,27,5,2016
+no,414,Bakersfield,Kern,28,11,2014
+no,413,Bakersfield,Kern,NULL,NULL,2013
+no,417,Bakersfield,Kern,13,10,2014
+no,431,Bakersfield,Kern,13,10,2014
+no,432,Bakersfield,Kern,3,6,2016
+no,433,Bakersfield,Kern,28,11,2014
+no,437,Bakersfield,Kern,3,6,2016
+no,441,Bakersfield,Kern,13,10,2018
+no,442,Bakersfield,Kern,27,5,2016
+no,448,Bakersfield,Kern,6,10,2017
+no,454,Bakersfield,Kern,6,10,2017
+yes,240,Bakersfield,Kern,25,6,2016
+yes,249,Bakersfield,Kern,21,12,2016
+yes,254,Bakersfield,Kern,30,5,2016
+yes,252,Bakersfield,Kern,29,6,2018
+yes,262,Bakersfield,Kern,16,12,2016
+yes,263,Bakersfield,Kern,19,12,2016
+yes,257,Bakersfield,Kern,19,1,2017
+yes,297,Bakersfield,Kern,17,2,2017
+yes,308,Bakersfield,Kern,19,12,2016
+yes,315,Bakersfield,Kern,3,2,2017
+yes,322,Bakersfield,Kern,29,4,2018
+yes,324,Bakersfield,Kern,30,5,2016
+yes,327,Bakersfield,Kern,15,6,2018
+yes,328,Bakersfield,Kern,13,2,2017
+yes,337,Bakersfield,Kern,17,6,2017
+yes,340,Bakersfield,Kern,2,10,2016
+yes,350,Bakersfield,Kern,19,5,2015
+yes,348,Bakersfield,Kern,17,12,2016
+yes,345,Bakersfield,Kern,6,6,2017
+yes,357,Bakersfield,Kern,29,3,2019
+yes,358,Bakersfield,Kern,22,2,2016
+yes,359,Bakersfield,Kern,29,11,2015
+yes,360,Bakersfield,Kern,14,3,2014
+yes,372,Bakersfield,Kern,1,12,2017
+yes,364,Bakersfield,Kern,22,2,2016
+yes,377,Bakersfield,Kern,6,8,2014
+yes,380,Bakersfield,Kern,29,11,2015
+yes,381,Bakersfield,Kern,14,3,2014
+yes,388,Bakersfield,Kern,1,12,2017
+yes,391,Bakersfield,Kern,25,6,2016
+yes,393,Bakersfield,Kern,30,8,2017
+yes,387,Bakersfield,Kern,9,5,2015
+yes,406,Bakersfield,Kern,28,12,2017
+yes,408,Bakersfield,Kern,5,6,2017
+yes,409,Bakersfield,Kern,31,3,2016
+yes,383,Bakersfield,Kern,7,7,2015
+yes,416,Bakersfield,Kern,7,7,2015
+yes,418,Bakersfield,Kern,14,3,2019
+yes,421,Bakersfield,Kern,14,3,2019
+yes,424,Bakersfield,Kern,17,3,2015
+yes,425,Bakersfield,Kern,15,6,2018
+yes,426,Bakersfield,Kern,5,6,2017
+yes,439,Bakersfield,Kern,29,4,2018
+yes,439,Bakersfield,Kern,29,4,2018
+yes,439,Bakersfield,Kern,29,4,2018
+yes,439,Bakersfield,Kern,29,4,2018
+yes,444,Bakersfield,Kern,19,3,2015
+yes,445,Bakersfield,Kern,18,8,2016
+yes,455,Bakersfield,Kern,30,8,2017
+yes,585,Bakersfield,Kern,27,1,2019
+yes,588,Bakersfield,Kern,20,1,2019
+yes,590,Bakersfield,Kern,1,3,2019
+yes,597,Bakersfield,Kern,9,7,2019
+yes,697,Bakersfield,Kern,19,7,2019
+yes,278,Bakersfield,Kern,16,2,2018
+yes,316,Bakersfield,Kern,6,4,2016
+yes,318,Bakersfield,Kern,25,9,2016
+yes,284,Bakersfield,Kern,21,3,2017
+yes,366,Bakersfield,Kern,4,12,2015
+yes,368,Bakersfield,Kern,24,1,2017
+yes,404,Bakersfield,Kern,4,4,2017
+yes,440,Bakersfield,Kern,17,12,2016
+yes,446,Bakersfield,Kern,28,8,2018
+yes,355,Bakersfield,Kern,3,2,2017
+no,287,Bakersfield,Kern,27,5,2018
+no,283,Bakersfield,Kern,27,5,2018
+no,341,Bakersfield,Kern,22,8,2015
+no,352,Bakersfield,Kern,22,8,2015
+no,411,Bakersfield,Kern,28,12,2017
+no,339,Bakersfield,Kern,27,4,2018
+yes,420,Bakersfield,Kern,25,9,2016
+yes,332,Bakersfield,Kern,21,1,2017
+no,290,Bakersfield,Kern,18,5,2017
+no,449,Bakersfield,Kern,27,3,2015
+no,453,Bakersfield,Kern,27,3,2015
+yes,270,Bakersfield,Kern,18,5,2017
+no,300,Bakersfield,Kern,2,7,2016
+no,374,Bakersfield,Kern,24,4,2016
+no,389,Bakersfield,Kern,12,12,2016
+no,353,Bakersfield,Kern,27,4,2018
+no,412,Bakersfield,Kern,13,11,2014
+no,423,Bakersfield,Kern,2,7,2016
+no,447,Bakersfield,Kern,8,2,2018
+no,456,Bakersfield,Kern,4,11,2017
+no,458,Bakersfield,Kern,8,2,2018
+no,400,Bakersfield,Kern,24,4,2016
+no,419,Bakersfield,Kern,4,11,2017
+yes,274,Bakersfield,Kern,4,4,2017
+yes,346,Bakersfield,Kern,24,1,2017
+yes,267,Bakersfield,Kern,4,4,2017
+yes,397,Bakersfield,Kern,4,12,2014
+yes,399,Bakersfield,Kern,13,11,2014
+yes,436,Bakersfield,Kern,19,3,2015
+yes,443,Bakersfield,Kern,10,5,2017
+yes,451,Bakersfield,Kern,10,5,2017
+yes,452,Bakersfield,Kern,4,11,2017
+yes,812,Barrio Logan,San Diego,13,1,2015
+no,724,Berkeley,Alameda,7,11,2019
+no,801,Dublin,Alameda,14,3,2014
+no,800,Dublin,Alameda,17,3,2014
+no,802,Dublin,Alameda,17,3,2014
+no,823,Dublin,Alameda,17,3,2014
+no,842,Dublin,Alameda,17,3,2014
+yes,770,Emeryville,Alameda,27,9,2017
+no,809,Mira Mesa,San Diego,16,2,2015
+no,822,Oakland,Alameda,17,3,2014
+no,841,Oakland,Alameda,17,3,2014
+no,761,Pinhole,Contra Costa,2,10,2014
+no,502,Pinole,Contra Costa,24,11,2018
+no,742,Pinole,Contra Costa,2,10,2014
+no,465,Richmond,Contra Costa,9,9,2019
+no,497,Richmond,Contra Costa,9,9,2019
+no,488,Richmond,Contra Costa,25,2,2018
+no,494,Richmond,Contra Costa,5,9,2018
+no,575,Richmond,Contra Costa,11,8,2014
+no,621,Richmond,Contra Costa,14,4,2014
+no,623,Richmond,Contra Costa,23,10,2014
+no,660,Richmond,Contra Costa,24,3,2019
+no,662,Richmond,Contra Costa,30,12,2019
+no,673,Richmond,Contra Costa,6,5,2018
+no,674,Richmond,Contra Costa,7,1,2014
+no,737,Richmond,Contra Costa,2,2,2015
+no,749,Richmond,Contra Costa,7,3,2017
+no,461,Richmond,Contra Costa,19,2,2018
+no,580,Richmond,Contra Costa,6,10,2016
+yes,459,Richmond,Contra Costa,26,2,2018
+yes,495,Richmond,Contra Costa,18,9,2017
+yes,657,Richmond,Contra Costa,24,6,2019
+yes,696,Richmond,Contra Costa,30,12,2018
+no,466,Richmond,Contra Costa,25,10,2017
+no,473,Richmond,Contra Costa,18,3,2018
+no,475,Richmond,Contra Costa,16,4,2019
+no,476,Richmond,Contra Costa,11,8,2014
+no,477,Richmond,Contra Costa,24,10,2018
+no,479,Richmond,Contra Costa,26,6,2014
+no,483,Richmond,Contra Costa,1,11,2017
+no,484,Richmond,Contra Costa,13,1,2017
+no,488,Richmond,Contra Costa,25,2,2018
+no,496,Richmond,Contra Costa,29,12,2019
+no,498,Richmond,Contra Costa,25,10,2017
+no,499,Richmond,Contra Costa,29,7,2019
+no,508,Richmond,Contra Costa,30,10,2014
+no,512,Richmond,Contra Costa,6,3,2018
+no,521,Richmond,Contra Costa,30,10,2014
+no,523,Richmond,Contra Costa,16,4,2019
+no,525,Richmond,Contra Costa,28,3,2016
+no,527,Richmond,Contra Costa,21,2,2018
+no,529,Richmond,Contra Costa,25,2,2018
+no,530,Richmond,Contra Costa,28,2,2018
+no,532,Richmond,Contra Costa,6,3,2018
+no,536,Richmond,Contra Costa,12,12,2017
+no,541,Richmond,Contra Costa,26,6,2014
+no,543,Richmond,Contra Costa,29,12,2015
+no,544,Richmond,Contra Costa,9,10,2016
+no,554,Richmond,Contra Costa,23,10,2014
+no,555,Richmond,Contra Costa,14,9,2014
+no,564,Richmond,Contra Costa,19,2,2018
+no,566,Richmond,Contra Costa,20,1,2018
+no,567,Richmond,Contra Costa,6,10,2016
+no,569,Richmond,Contra Costa,19,2,2018
+no,552,Richmond,Contra Costa,21,4,2015
+no,549,Richmond,Contra Costa,19,4,2018
+no,577,Richmond,Contra Costa,2,6,2016
+no,579,Richmond,Contra Costa,19,4,2018
+no,582,Richmond,Contra Costa,20,1,2018
+no,594,Richmond,Contra Costa,25,8,2014
+no,595,Richmond,Contra Costa,4,3,2018
+no,596,Richmond,Contra Costa,29,6,2017
+no,607,Richmond,Contra Costa,26,7,2016
+no,608,Richmond,Contra Costa,30,9,2019
+no,609,Richmond,Contra Costa,6,5,2019
+no,610,Richmond,Contra Costa,12,2,2016
+no,613,Richmond,Contra Costa,9,2,2015
+no,604,Richmond,Contra Costa,29,5,2019
+no,616,Richmond,Contra Costa,4,7,2014
+no,617,Richmond,Contra Costa,29,3,2014
+no,618,Richmond,Contra Costa,14,7,2015
+no,619,Richmond,Contra Costa,27,8,2016
+no,620,Richmond,Contra Costa,2,6,2016
+no,624,Richmond,Contra Costa,2,3,2014
+no,625,Richmond,Contra Costa,29,5,2014
+no,628,Richmond,Contra Costa,13,10,2018
+no,632,Richmond,Contra Costa,23,4,2016
+no,633,Richmond,Contra Costa,26,7,2016
+no,634,Richmond,Contra Costa,30,9,2019
+no,635,Richmond,Contra Costa,4,2,2015
+no,636,Richmond,Contra Costa,16,4,2014
+no,638,Richmond,Contra Costa,3,4,2014
+no,639,Richmond,Contra Costa,12,4,2015
+no,630,Richmond,Contra Costa,3,8,2016
+no,641,Richmond,Contra Costa,6,5,2019
+no,643,Richmond,Contra Costa,3,8,2016
+no,644,Richmond,Contra Costa,16,4,2014
+no,645,Richmond,Contra Costa,17,2,2015
+no,647,Richmond,Contra Costa,14,3,2017
+no,646,Richmond,Contra Costa,3,4,2014
+no,648,Richmond,Contra Costa,12,4,2015
+no,650,Richmond,Contra Costa,4,2,2015
+no,653,Richmond,Contra Costa,7,1,2017
+no,654,Richmond,Contra Costa,6,5,2018
+no,655,Richmond,Contra Costa,22,3,2015
+no,652,Richmond,Contra Costa,24,3,2019
+no,659,Richmond,Contra Costa,30,12,2019
+no,663,Richmond,Contra Costa,14,7,2015
+no,667,Richmond,Contra Costa,9,5,2014
+no,669,Richmond,Contra Costa,3,3,2018
+no,679,Richmond,Contra Costa,4,3,2018
+no,680,Richmond,Contra Costa,26,8,2014
+no,681,Richmond,Contra Costa,29,6,2017
+no,682,Richmond,Contra Costa,9,2,2015
+no,683,Richmond,Contra Costa,12,2,2016
+no,689,Richmond,Contra Costa,9,5,2019
+no,692,Richmond,Contra Costa,7,11,2019
+no,693,Richmond,Contra Costa,22,3,2015
+no,695,Richmond,Contra Costa,29,10,2019
+no,698,Richmond,Contra Costa,28,12,2014
+no,707,Richmond,Contra Costa,22,12,2014
+no,708,Richmond,Contra Costa,28,12,2014
+no,712,Richmond,Contra Costa,28,12,2019
+no,721,Richmond,Contra Costa,22,5,2016
+no,722,Richmond,Contra Costa,23,3,2016
+no,725,Richmond,Contra Costa,15,8,2014
+no,728,Richmond,Contra Costa,15,8,2014
+no,730,Richmond,Contra Costa,9,5,2014
+no,734,Richmond,Contra Costa,29,10,2019
+no,736,Richmond,Contra Costa,28,12,2019
+no,741,Richmond,Contra Costa,10,8,2019
+no,745,Richmond,Contra Costa,23,3,2016
+no,747,Richmond,Contra Costa,2,3,2014
+no,748,Richmond,Contra Costa,12,12,2017
+no,750,Richmond,Contra Costa,26,7,2016
+no,751,Richmond,Contra Costa,29,3,2014
+no,753,Richmond,Contra Costa,4,4,2014
+no,754,Richmond,Contra Costa,29,5,2014
+no,755,Richmond,Contra Costa,21,4,2015
+no,756,Richmond,Contra Costa,3,3,2018
+no,757,Richmond,Contra Costa,1,11,2017
+no,758,Richmond,Contra Costa,13,1,2017
+no,769,Richmond,Contra Costa,13,4,2016
+no,805,Richmond,Contra Costa,13,4,2016
+no,460,Richmond,Contra Costa,24,11,2018
+no,471,Richmond,Contra Costa,9,10,2016
+no,533,Richmond,Contra Costa,17,3,2017
+no,539,Richmond,Contra Costa,30,4,2018
+no,560,Richmond,Contra Costa,7,7,2017
+no,664,Richmond,Contra Costa,14,3,2017
+no,676,Richmond,Contra Costa,13,10,2018
+no,740,Richmond,Contra Costa,30,12,2018
+no,500,Richmond,Contra Costa,8,11,2014
+no,548,Richmond,Contra Costa,14,12,2016
+no,556,Richmond,Contra Costa,11,8,2014
+no,561,Richmond,Contra Costa,4,4,2016
+no,694,Richmond,Contra Costa,26,12,2015
+no,700,Richmond,Contra Costa,11,4,2016
+no,710,Richmond,Contra Costa,2,3,2016
+no,678,Richmond,Contra Costa,26,12,2016
+no,703,Richmond,Contra Costa,11,4,2016
+no,713,Richmond,Contra Costa,15,12,2015
+no,711,Richmond,Contra Costa,1,2,2016
+no,714,Richmond,Contra Costa,10,4,2016
+no,715,Richmond,Contra Costa,10,4,2016
+no,716,Richmond,Contra Costa,1,8,2016
+no,719,Richmond,Contra Costa,NULL,12,2015
+no,720,Richmond,Contra Costa,14,11,2014
+no,720,Richmond,Contra Costa,14,11,2014
+no,727,Richmond,Contra Costa,12,8,2015
+no,729,Richmond,Contra Costa,1,2,2016
+no,733,Richmond,Contra Costa,14,11,2014
+no,735,Richmond,Contra Costa,NULL,10,2015
+yes,469,Richmond,Contra Costa,7,7,2017
+yes,482,Richmond,Contra Costa,15,1,2015
+yes,485,Richmond,Contra Costa,4,2,2019
+yes,505,Richmond,Contra Costa,6,7,2016
+yes,509,Richmond,Contra Costa,15,12,2016
+yes,513,Richmond,Contra Costa,21,3,2015
+yes,514,Richmond,Contra Costa,12,2,2018
+yes,518,Richmond,Contra Costa,6,7,2016
+yes,537,Richmond,Contra Costa,6,7,2017
+yes,540,Richmond,Contra Costa,15,1,2015
+yes,557,Richmond,Contra Costa,29,7,2019
+yes,627,Richmond,Contra Costa,22,1,2017
+yes,629,Richmond,Contra Costa,4,5,2018
+yes,642,Richmond,Contra Costa,4,5,2018
+yes,658,Richmond,Contra Costa,14,7,2016
+yes,661,Richmond,Contra Costa,14,7,2016
+yes,665,Richmond,Contra Costa,23,1,2017
+yes,684,Richmond,Contra Costa,27,10,2018
+yes,689,Richmond,Contra Costa,9,5,2019
+yes,685,Richmond,Contra Costa,9,10,2014
+yes,705,Richmond,Contra Costa,9,5,2019
+yes,720,Richmond,Contra Costa,14,11,2014
+yes,739,Richmond,Contra Costa,15,12,2016
+yes,744,Richmond,Contra Costa,6,7,2016
+yes,759,Richmond,Contra Costa,21,3,2015
+yes,764,Richmond,Contra Costa,27,9,2017
+yes,804,Richmond,Contra Costa,6,7,2016
+yes,464,Richmond,Contra Costa,8,9,2018
+yes,470,Richmond,Contra Costa,15,7,2014
+yes,472,Richmond,Contra Costa,3,3,2014
+yes,486,Richmond,Contra Costa,28,2,2018
+yes,491,Richmond,Contra Costa,8,9,2018
+yes,507,Richmond,Contra Costa,12,12,2015
+yes,515,Richmond,Contra Costa,23,6,2017
+yes,520,Richmond,Contra Costa,15,9,2017
+yes,526,Richmond,Contra Costa,15,9,2017
+yes,531,Richmond,Contra Costa,23,6,2017
+yes,534,Richmond,Contra Costa,13,2,2018
+yes,535,Richmond,Contra Costa,12,12,2015
+yes,538,Richmond,Contra Costa,26,2,2018
+yes,542,Richmond,Contra Costa,18,9,2017
+yes,563,Richmond,Contra Costa,19,2,2015
+yes,568,Richmond,Contra Costa,19,4,2014
+yes,570,Richmond,Contra Costa,26,2,2018
+yes,573,Richmond,Contra Costa,11,1,2014
+yes,576,Richmond,Contra Costa,26,2,2018
+yes,578,Richmond,Contra Costa,27,8,2016
+yes,581,Richmond,Contra Costa,5,7,2014
+yes,583,Richmond,Contra Costa,11,9,2019
+yes,614,Richmond,Contra Costa,11,3,2014
+yes,626,Richmond,Contra Costa,2,5,2016
+yes,631,Richmond,Contra Costa,27,2,2019
+yes,651,Richmond,Contra Costa,24,6,2019
+yes,656,Richmond,Contra Costa,3,9,2014
+yes,670,Richmond,Contra Costa,3,10,2019
+yes,675,Richmond,Contra Costa,27,7,2016
+yes,686,Richmond,Contra Costa,23,4,2014
+yes,687,Richmond,Contra Costa,12,11,2014
+yes,701,Richmond,Contra Costa,23,4,2014
+yes,702,Richmond,Contra Costa,12,11,2014
+yes,709,Richmond,Contra Costa,9,10,2014
+yes,731,Richmond,Contra Costa,31,3,2017
+yes,738,Richmond,Contra Costa,11,1,2014
+yes,743,Richmond,Contra Costa,11,3,2014
+yes,746,Richmond,Contra Costa,25,2,2014
+yes,752,Richmond,Contra Costa,5,9,2018
+yes,763,Richmond,Contra Costa,31,3,2017
+yes,768,Richmond,Contra Costa,8,5,2018
+yes,666,Richmond,Contra Costa,3,10,2019
+yes,723,Richmond,Contra Costa,27,10,2018
+no,691,Richmond,Contra Costa,22,12,2014
+no,511,Richmond,Contra Costa,13,3,2018
+no,519,Richmond,Contra Costa,28,3,2016
+no,553,Richmond,Contra Costa,29,5,2019
+no,649,Richmond,Contra Costa,3,9,2014
+yes,462,Richmond,Contra Costa,10,4,2019
+yes,605,Richmond,Contra Costa,27,2,2019
+yes,649,Richmond,Contra Costa,3,9,2014
+yes,656,Richmond,Contra Costa,3,9,2014
+yes,626,Richmond,Contra Costa,2,5,2016
+yes,765,Richmond,Contra Costa,2,5,2016
+no,562,Richmond,Contra Costa,14,9,2014
+no,550,Richmond,Contra Costa,25,2,2014
+no,615,Richmond,Contra Costa,13,1,2015
+no,637,Richmond,Contra Costa,17,2,2015
+no,677,Richmond,Contra Costa,13,1,2015
+no,688,Richmond,Contra Costa,9,3,2019
+no,704,Richmond,Contra Costa,9,3,2019
+no,767,Richmond,Contra Costa,21,2,2015
+no,489,Richmond,Contra Costa,10,4,2019
+yes,467,Richmond,Contra Costa,30,4,2018
+yes,510,Richmond,Contra Costa,4,3,2019
+yes,493,Richmond,Contra Costa,8,5,2018
+yes,516,Richmond,Contra Costa,24,2,2018
+yes,571,Richmond,Contra Costa,24,2,2018
+yes,572,Richmond,Contra Costa,5,7,2014
+yes,690,Richmond,Contra Costa,1,9,2014
+yes,706,Richmond,Contra Costa,1,9,2014
+yes,726,Richmond,Contra Costa,10,8,2019
+yes,766,Richmond,Contra Costa,27,7,2016
+yes,574,Richmond,Contra Costa,15,7,2014
+no,775,San Diego,San Diego,12,1,2018
+no,786,San Diego,San Diego,1,9,2017
+no,778,San Diego,San Diego,23,6,2018
+yes,791,San Diego,San Diego,30,4,2017
+no,771,San Diego,San Diego,25,10,2020
+no,774,San Diego,San Diego,25,10,2020
+no,776,San Diego,San Diego,3,3,2018
+no,781,San Diego,San Diego,27,12,2018
+no,782,San Diego,San Diego,25,1,2017
+no,787,San Diego,San Diego,20,11,2017
+no,790,San Diego,San Diego,25,2,2016
+no,788,San Diego,San Diego,3,3,2018
+no,796,San Diego,San Diego,18,1,2016
+no,798,San Diego,San Diego,1,7,2018
+no,814,San Diego,San Diego,28,5,2016
+no,815,San Diego,San Diego,18,1,2016
+no,783,San Diego,San Diego,12,1,2018
+no,792,San Diego,San Diego,1,9,2017
+no,806,San Diego,San Diego,23,5,2015
+yes,772,San Diego,San Diego,3,1,2019
+yes,773,San Diego,San Diego,3,4,2019
+yes,777,San Diego,San Diego,27,5,2018
+yes,779,San Diego,San Diego,13,1,2019
+yes,784,San Diego,San Diego,30,4,2017
+yes,785,San Diego,San Diego,29,11,2017
+yes,780,San Diego,San Diego,3,4,2019
+yes,789,San Diego,San Diego,10,12,2017
+yes,794,San Diego,San Diego,23,6,2018
+yes,795,San Diego,San Diego,1,1,2016
+yes,807,San Diego,San Diego,18,4,2015
+yes,810,San Diego,San Diego,12,12,2016
+yes,816,San Diego,San Diego,1,1,2016
+yes,808,San Diego,San Diego,4,3,2015
+yes,813,San Diego,San Diego,12,12,2016
+yes,797,San Diego,San Diego,2,5,2016
+yes,811,San Diego,San Diego,3,5,2016
+no,821,San Jose,Santa Clara,24,11,2015
+no,818,San Jose,Santa Clara,9,10,2018
+no,819,San Jose,Santa Clara,5,7,2020
+no,824,San Jose,Santa Clara,24,11,2015
+no,825,San Jose,Santa Clara,15,1,2015
+no,826,San Jose,Santa Clara,5,7,2020
+no,833,San Jose,Santa Clara,17,6,2017
+no,836,San Jose,Santa Clara,17,6,2017
+no,839,San Jose,Santa Clara,17,7,2019
+no,844,San Jose,Santa Clara,8,8,2014
+no,835,San Jose,Santa Clara,1,12,2015
+yes,817,San Jose,Santa Clara,11,5,2016
+yes,829,San Jose,Santa Clara,12,5,2019
+yes,834,San Jose,Santa Clara,12,5,2019
+yes,845,San Jose,Santa Clara,11,2,2015
+no,831,San Jose,Santa Clara,1,12,2015
+yes,827,San Jose,San Mateo,15,9,2017
+yes,565,San Pablo,Contra Costa,11,9,2019
+yes,732,San Pablo,Contra Costa,7,9,2014
+yes,718,San Pablo,Contra Costa,7,9,2014
+no,803,Santa Rita,Alameda,17,3,2014
+no,820,Santa Rita,Alameda,17,3,2014
+no,838,Santa Rita,Alameda,17,3,2014
+no,840,Santa Rita,Alameda,17,3,2014
+no,309,Shafter,Kern,6,12,2018
+no,356,Shafter,Kern,6,12,2018

@@ -1,0 +1,46 @@
+# Mac Files
+.DS_Store
+
+# Jupyter Files
+**/.ipynb_checkpoints/*
+
+# Zip files
+**.zip
+
+# Large files
+existing-work/
+data/cosql_dataset
+data/covis
+vocabularies/
+gpt*.json
+gpt*.jsonl
+**.pkl
+**.sql
+
+# Compiled Python files
+**/__pycache__
+**.lock
+
+# Model checkpoints
+**.ckpt
+model_checkpoints
+tb_logs/
+
+# WandB runs
+**/src/wandb/**
+wandb.api
+
+# Lightning logs
+lightning_logs/**
+
+# results
+results/**
+manual_accuracy/**
+
+# Archive folder
+archive/**
+
+# log files
+nohup.out
+*.out
+eval_out*
